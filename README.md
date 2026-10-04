@@ -1,4 +1,4 @@
-# OOP Assignments - عبدالله محمد عبدالله باسلامه
+# OOP Assignments
 
 C# Object-Oriented Programming assignments.
 
